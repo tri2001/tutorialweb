@@ -1,0 +1,18 @@
+p {
+	color: red;
+}
+
+#username {
+	color: blue;
+	font-size: 20px;
+	font-weight: bolder;
+}
+
+.titluPagina {
+	font-size: 70px;
+	color: #779a42;
+}
+
+ol li {
+	color: gray;
+}
